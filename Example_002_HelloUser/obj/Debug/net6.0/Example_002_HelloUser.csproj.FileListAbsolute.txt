@@ -1,0 +1,15 @@
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/bin/Debug/net6.0/Example_002_HelloUser
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/bin/Debug/net6.0/Example_002_HelloUser.deps.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/bin/Debug/net6.0/Example_002_HelloUser.runtimeconfig.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/bin/Debug/net6.0/Example_002_HelloUser.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/bin/Debug/net6.0/Example_002_HelloUser.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.csproj.AssemblyReference.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.AssemblyInfoInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.AssemblyInfo.cs
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/obj/Debug/net6.0/refint/Example_002_HelloUser.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.genruntimeconfig.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_002_HelloUser/obj/Debug/net6.0/ref/Example_002_HelloUser.dll
