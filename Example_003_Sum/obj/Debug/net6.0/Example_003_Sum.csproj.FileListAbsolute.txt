@@ -1,0 +1,15 @@
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/bin/Debug/net6.0/Example_003_Sum
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/bin/Debug/net6.0/Example_003_Sum.deps.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/bin/Debug/net6.0/Example_003_Sum.runtimeconfig.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/bin/Debug/net6.0/Example_003_Sum.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/bin/Debug/net6.0/Example_003_Sum.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/obj/Debug/net6.0/Example_003_Sum.csproj.AssemblyReference.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/obj/Debug/net6.0/Example_003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/obj/Debug/net6.0/Example_003_Sum.AssemblyInfoInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/obj/Debug/net6.0/Example_003_Sum.AssemblyInfo.cs
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/obj/Debug/net6.0/Example_003_Sum.csproj.CoreCompileInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/obj/Debug/net6.0/Example_003_Sum.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/obj/Debug/net6.0/refint/Example_003_Sum.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/obj/Debug/net6.0/Example_003_Sum.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/obj/Debug/net6.0/Example_003_Sum.genruntimeconfig.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_003_Sum/obj/Debug/net6.0/ref/Example_003_Sum.dll
