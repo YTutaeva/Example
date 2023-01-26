@@ -1,0 +1,15 @@
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/bin/Debug/net6.0/Example_007_Magic
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/bin/Debug/net6.0/Example_007_Magic.deps.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/bin/Debug/net6.0/Example_007_Magic.runtimeconfig.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/bin/Debug/net6.0/Example_007_Magic.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/bin/Debug/net6.0/Example_007_Magic.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/obj/Debug/net6.0/Example_007_Magic.csproj.AssemblyReference.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/obj/Debug/net6.0/Example_007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/obj/Debug/net6.0/Example_007_Magic.AssemblyInfoInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/obj/Debug/net6.0/Example_007_Magic.AssemblyInfo.cs
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/obj/Debug/net6.0/Example_007_Magic.csproj.CoreCompileInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/obj/Debug/net6.0/Example_007_Magic.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/obj/Debug/net6.0/refint/Example_007_Magic.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/obj/Debug/net6.0/Example_007_Magic.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/obj/Debug/net6.0/Example_007_Magic.genruntimeconfig.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_007_Magic/obj/Debug/net6.0/ref/Example_007_Magic.dll
