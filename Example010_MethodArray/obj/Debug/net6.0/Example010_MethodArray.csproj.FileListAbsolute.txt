@@ -1,0 +1,15 @@
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.deps.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.runtimeconfig.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.csproj.AssemblyReference.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.AssemblyInfoInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.AssemblyInfo.cs
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.csproj.CoreCompileInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/obj/Debug/net6.0/refint/Example010_MethodArray.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.genruntimeconfig.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example010_MethodArray/obj/Debug/net6.0/ref/Example010_MethodArray.dll

@@ -1,0 +1,15 @@
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/bin/Debug/net6.0/Example_009_IntroArray
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/bin/Debug/net6.0/Example_009_IntroArray.deps.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/bin/Debug/net6.0/Example_009_IntroArray.runtimeconfig.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/bin/Debug/net6.0/Example_009_IntroArray.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/bin/Debug/net6.0/Example_009_IntroArray.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/obj/Debug/net6.0/Example_009_IntroArray.csproj.AssemblyReference.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/obj/Debug/net6.0/Example_009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/obj/Debug/net6.0/Example_009_IntroArray.AssemblyInfoInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/obj/Debug/net6.0/Example_009_IntroArray.AssemblyInfo.cs
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/obj/Debug/net6.0/Example_009_IntroArray.csproj.CoreCompileInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/obj/Debug/net6.0/Example_009_IntroArray.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/obj/Debug/net6.0/refint/Example_009_IntroArray.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/obj/Debug/net6.0/Example_009_IntroArray.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/obj/Debug/net6.0/Example_009_IntroArray.genruntimeconfig.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_009_IntroArray/obj/Debug/net6.0/ref/Example_009_IntroArray.dll

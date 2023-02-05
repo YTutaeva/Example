@@ -1,0 +1,15 @@
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/bin/Debug/net6.0/Example_008_IntroMethod
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/bin/Debug/net6.0/Example_008_IntroMethod.deps.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/bin/Debug/net6.0/Example_008_IntroMethod.runtimeconfig.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/bin/Debug/net6.0/Example_008_IntroMethod.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/bin/Debug/net6.0/Example_008_IntroMethod.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/obj/Debug/net6.0/Example_008_IntroMethod.csproj.AssemblyReference.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/obj/Debug/net6.0/Example_008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/obj/Debug/net6.0/Example_008_IntroMethod.AssemblyInfoInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/obj/Debug/net6.0/Example_008_IntroMethod.AssemblyInfo.cs
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/obj/Debug/net6.0/Example_008_IntroMethod.csproj.CoreCompileInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/obj/Debug/net6.0/Example_008_IntroMethod.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/obj/Debug/net6.0/refint/Example_008_IntroMethod.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/obj/Debug/net6.0/Example_008_IntroMethod.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/obj/Debug/net6.0/Example_008_IntroMethod.genruntimeconfig.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example_008_IntroMethod/obj/Debug/net6.0/ref/Example_008_IntroMethod.dll
