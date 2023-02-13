@@ -1,0 +1,15 @@
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/bin/Debug/net6.0/Example013_Fibonacci
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/bin/Debug/net6.0/Example013_Fibonacci.deps.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/bin/Debug/net6.0/Example013_Fibonacci.runtimeconfig.json
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/bin/Debug/net6.0/Example013_Fibonacci.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/bin/Debug/net6.0/Example013_Fibonacci.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/obj/Debug/net6.0/Example013_Fibonacci.csproj.AssemblyReference.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/obj/Debug/net6.0/Example013_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/obj/Debug/net6.0/Example013_Fibonacci.AssemblyInfoInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/obj/Debug/net6.0/Example013_Fibonacci.AssemblyInfo.cs
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/obj/Debug/net6.0/Example013_Fibonacci.csproj.CoreCompileInputs.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/obj/Debug/net6.0/Example013_Fibonacci.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/obj/Debug/net6.0/refint/Example013_Fibonacci.dll
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/obj/Debug/net6.0/Example013_Fibonacci.pdb
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/obj/Debug/net6.0/Example013_Fibonacci.genruntimeconfig.cache
+/Users/yuliatutaeva/Documents/Учеба/Example/Example013_Fibonacci/obj/Debug/net6.0/ref/Example013_Fibonacci.dll
